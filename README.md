@@ -6,6 +6,25 @@
   <b>GenAI · Full Stack · NLP · Computer Vision</b>
 </p>
 
+---
+
+## 🏅 Certifications
+
+Not just completed — **top-ranked**. Out of 23,139 candidates, I scored **94%** 
+and earned the **Elite + Gold Badge** — given only to the highest percentile. 
+This isn't a participation certificate.
+
+| Course | Issuer | Score | Badge |
+|---|---|---|---|
+| Human Computer Interaction | NPTEL · IIT Madras | 94% | 🥇 Elite + Gold |
+
+> Relevant to everything I build — because shipping AI products nobody can use
+> is just expensive waste.
+
+![NPTEL HCI Certificate](./nptel-hci-certificate.png)
+
+---
+
 <p align="center">
   <a href="https://linkedin.com/in/shubhamgupta407">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
