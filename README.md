@@ -45,7 +45,7 @@ This isn't a participation certificate.
 > is just expensive waste.
 
 <div align="center">
-<img src="./nptel-hci-certificate.png" width="600"/>
+<img src="./nptel-hci-certificate.png" width="300"/>
 </div
   
 ### 🔥 Projects
