@@ -19,6 +19,14 @@
 
 ### Who I am
 
+---
+
+## 🔬 Research
+
+Research Intern at IIT Kharagpur, working with Dr. Ritesh Sarkhel (Ex-Applied Scientist, Amazon) on explainable agentic fraud detection — currently running baseline experiments on world models (STORM, TransDreamer, WALL-E 2.0, WorldCoder) over financial transaction trajectories.
+
+---
+
 Third-year CS student at LPU who got tired of tutorial projects. I build actual things — an AI support system with semantic routing and human escalation, a sales intelligence tool that reads call transcripts with RAG, a real-time sign language detector. The kind of stuff you can show someone and they immediately understand what it does.
 
 My stack is Python + JavaScript depending on what the problem needs. I'm comfortable going from model fine-tuning all the way to deploying a React frontend on Firebase.
