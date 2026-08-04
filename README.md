@@ -6,6 +6,8 @@
   <b>GenAI · Full Stack · NLP · Computer Vision</b>
 </p>
 
+![Build Status](https://img.shields.io/github/actions/workflow/status/user/repo/ci.yml)
+
 <p align="center">
   <a href="https://linkedin.com/in/shubhamgupta407">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
