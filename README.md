@@ -22,7 +22,7 @@
 ### 🧠 Who I am
 B.Tech CSE (AI & ML) @ LPU · **Project Assistant @ IIT Kharagpur** (prev. Research Intern) under **Dr. Ritesh Sarkhel** (ex-Amazon).
 
-I work on the part of AI that isn't just training — reasoning, coordination, and deciding *what to do next*.
+I work on the part of AI that isn't just training - reasoning, coordination, and deciding *what to do next*.
 
 </td>
 <td width="50%" valign="top">
