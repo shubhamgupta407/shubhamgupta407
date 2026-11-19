@@ -41,18 +41,20 @@ And the follow-up that keeps me up:
 
 ## 🔬 Research
 
-**IIT Kharagpur** - *Project Assistant (prev. Research Intern)*
+**IIT Kharagpur** - **Research Staff** (prev. Research Intern)*
 
-**⟶ Agent Spawning** · *with IBM*
-Graph-theoretic + information-theoretic approaches to when/where a multi-agent system should spawn agents. Reproducing and analysing multi-agent collaboration benchmarks.
+# 🔬 Research & Development
 
-**⟶ Zero-Day Fraud Detection** · *with Persistent Systems*
-Contrastive representation learning · hard-negative mining · temporal generalisation · world-model-based sequence modelling.
-> **ROC-AUC: 0.70 → 0.84** on zero-day fraud
+**⟶ Multi-Agent Systems**  
+Exploring coordination, collaboration, and adaptive behaviour in autonomous AI systems.
 
-**⟶ World Models & Agentic AI**
-How agents reason about outcomes *before* acting.
-`JEPA` `DreamerV3` `TransDreamer` `STORM` `IRIS` `WALL-E 2.0` `WorldCoder`
+**⟶ Applied AI Research**  
+Investigating machine learning approaches for complex and evolving real-world problems.
+
+**⟶ World Models & Agentic AI**  
+Studying how intelligent systems learn, reason, predict outcomes, and make decisions in dynamic environments.
+
+---
 
 **IIT (BHU)** - *Research Collaboration*
 Credibility-aware RAG · trustworthy NLP · reliable LLM systems.
@@ -63,7 +65,7 @@ Credibility-aware RAG · trustworthy NLP · reliable LLM systems.
 
 | Role | Where | When |
 |---|---|---|
-| Project Assistant *(prev. Research Intern)* | IIT Kharagpur | 2026 - Present |
+| Research Staff *(prev. Research Intern)* | IIT Kharagpur | 2026 - Present |
 | Machine Learning Intern | Unified Mentor Pvt. Ltd. | Nov 2025 - Feb 2026 |
 
 ---
